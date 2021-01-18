@@ -2,4 +2,4 @@ layout : titolo della diapositiva
  : " Benvenuti nella nostra seconda diapositiva! "
 ---
 Il tuo testo 
-Usa la freccia sinistra per tornare indietro!
+Usa la freccia sinistra per tornare indietro!w
